@@ -1,7 +1,3 @@
-import sys
-# adding MyFuncs package to Python's list of lookup paths
-sys.path.append('C:\\Users\\welcome\\Desktop\\MyFuncs')
-
 from fave_app_funcs import name_inp, password_inp, ask_to_save
 
 import random
