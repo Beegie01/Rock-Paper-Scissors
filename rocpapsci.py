@@ -1,7 +1,7 @@
-import sys, string
+# import sys, string
 
-# adding MyFuncs package to Python's list of lookup paths
-sys.path.append('C:\\Users\\welcome\\Desktop\\MyFuncs')
+# # adding MyFuncs package to Python's list of lookup paths
+# sys.path.append('C:\\Users\\welcome\\Desktop\\MyFuncs')
 
 from fave_app_funcs import *
 
